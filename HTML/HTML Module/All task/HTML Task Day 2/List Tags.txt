@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List Tags</title>
+</head>
+<body>
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Reactjs</li>
+        <li>Nodejs</li>
+    </ol>
+    <ul>
+        <li>Sandeep</li>
+        <li>Siva</li>
+        <li>Vishu</li>
+        <li>Nitheesh</li>
+        <li>Ajith</li>
+    </ul>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Hypher Text Markup Language</dd>
+
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets</dd>
+
+        <dt>JS</dt>
+        <dd>JavaScript</dd>
+
+        <dt>DTD</dt>
+        <dd>Document Type Definition</dd>
+    </dl>
+</body>
+</html>

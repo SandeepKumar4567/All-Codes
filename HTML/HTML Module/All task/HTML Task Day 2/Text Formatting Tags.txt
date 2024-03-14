@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Text Formatting Tags</title>
+</head>
+<body>
+  <h3>Text Formatting Tags</h2><br><br>
+  <h3><b>This Text has been Bolded</b></h3><br>
+  <h3><i>This Text in italic</i></h3><br>
+  <h3><em>This Text is emphasized </em></h2><br> //this line gives importance when using emphasized
+ <h3><mark>This Text is marked</mark></h2><br>
+  <small><h3>This Text is in small </h2></small><br>
+  <del><h3>This Text is deleted </h2></del><br>
+ <h3><ins>This Text is inserted</ins><h3><br>
+  <h3>This Text is <sup>superscripted</sup></h2><br>
+  <h3>This Text is <sub>subcripted</sub><h3><br>
+
+  <h3><font size="4">This text will be larger</font></h3><br>
+  <h3><font color="red">This text will be red</font></h3><br>
+  <h3><p>This is a paragraph tag.</p></h3><br>
+  <h3><pre>This text will retain its spacing
+                        and line breaks</pre></h3><br>
+  <h3><blockquote>This is a quotation.</blockquote></h3><br>
+
+</body>
+</html

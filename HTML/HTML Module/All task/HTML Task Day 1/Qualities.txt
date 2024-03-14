@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Qualities</title>
+</head>
+<body>
+  <h1>Hard Working</h1>
+  <h2>Self Displine</h2>
+  <h3>Good Habit</h3>
+  <h4>Good Behaviour</h4>
+  <h5>Adopt any environment</h5>
+  <h6>Truthfull</h6>
+</body>
+</html

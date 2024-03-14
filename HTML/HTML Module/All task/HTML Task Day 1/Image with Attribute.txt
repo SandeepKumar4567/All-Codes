@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML image tag</title>
+</head>
+<body>
+  <h1>Image with Attributes</h1>
+
+  <img src="./pexels-pixabay-358532.jpg" height="300px" width="500px"><br>
+  <h2>Image with height=300px and width=500px</h2><br>
+
+  <img src="./roses-1566792.jpg" height="500px" width="700px"><br>
+  <h2>Image with height=500px and width=700px</h2><br>
+</body>
+</html

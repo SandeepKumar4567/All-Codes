@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism</title>
+</head>
+<body>
+    <header>
+        <h1>TOURISM</h1>
+    </header>
+    <nav>
+        <a href="Tourism Webpage.html">HOME</a>|
+        <a href="./ContactTourism.html">CONTACT</a>|
+        <a href="./AboutTourism.html">ABOUT WEBPAGE</a>
+    </nav><br><br>
+    <article>
+        <figure>
+            <fig><img src="./tourism20150818-1-1.jpg" height="300px" width="500px"></fig>
+        </figure>
+        <p>Tourism is vital for the success of many economies around the world. There are several benefits <br>
+           of tourism on host destinations. Tourism boosts the revenue of the economy, creates thousands of <br>
+           jobs, develops the infrastructures of a country, and plants a sense of cultural exchange between <br>
+           foreigners and citizens.</p>
+    </article><br><br><br>
+    <footer>
+        <h3>@COPYRIGHT IS CLAIMED</h3>
+    </footer>
+</body>
+</html>

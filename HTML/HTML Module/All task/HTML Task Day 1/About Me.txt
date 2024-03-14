@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body>
+  <heading><h2>About Me</h2></heading>
+<p>Hii my name Sandeep kumar, i completed my UG degree BCOM IT in <br>Sri Krishna Adithya College of Arts and Sciences, along with my degree <br>i completed Software Testing course in IIE ( Indra Institution of Education ).<br><br>
+<b>Thank You</b></p>
+</body>
+</html

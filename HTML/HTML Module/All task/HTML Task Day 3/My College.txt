@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My College</title>
+</head>
+<body>
+  <h5>My College</h5>
+  <pre>College Name : Sri Krishna Adithya College of Arts and Sciences</pre>
+  <pre>College Location : Kovaipudhur,Coimbatore</pre>
+  <pre>About College : My college has an extraordinary infrature
+                            and quality of education also good.</pre>
+  <pre>College mail id : Admin@skacas.ac.in</pre>
+</body>
+</html

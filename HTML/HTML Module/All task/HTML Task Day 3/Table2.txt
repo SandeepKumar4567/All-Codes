@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+  <h2>Table</h2>
+  <table border="5">
+  <tr>
+    <th>S.no</th>
+    <th>Famil members</th>
+    <th>Title</th>
+    <th>Age></th>
+  </tr>
+  <tr>
+   <td>1</th>
+   <td>Pillaiarsamy</td>
+   <td>Father</td>
+   <th>54</>
+   </tr>
+    <tr>
+   <td>2</th>
+   <td>Muthulakshmy</td>
+   <td>Mother</td>
+   <th>44</>
+   </tr>
+    <tr>
+   <td>3</th>
+   <td>Shanmugapriya</td>
+   <td>sister</td>
+   <th>22</>
+   </tr>
+    <tr>
+   <td>4</th>
+   <td>SandeepKumar</td>
+   <td>Me</td>
+   <th>21</>
+   </tr>
+</table>
+</body>
+</html

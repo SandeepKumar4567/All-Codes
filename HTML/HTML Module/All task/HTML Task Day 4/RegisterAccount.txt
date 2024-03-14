@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Register</title>
+    <style>
+        h2{
+            text-align: center;
+        }
+        .demo{
+            align-items: center;
+        }
+        .demo2{
+            margin-left: 100px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h2>Register Your Account</h2>
+    </header><br><br>
+    <table>
+   <form class="demo">
+    <tr>
+        <td><label>Enter Name : </label></td>
+        <td><input type="text" placeholder="Enter name here"><br><br></td>
+    </tr>
+    <tr>
+        <td><label>Enter Email ID : </label></td>
+        <td><input type="text" placeholder="Enter email id here"><br><br></td>
+    </tr>
+    <tr>
+        <td> <label>Enter Username : </label></td>
+        <td><input type="text" placeholder="Enter username here"><br><br></td>
+    </tr>
+    <tr>
+        <td><label>Enter Password : </label></td>
+        <td><input type="password" placeholder="Enter password here"><br><br></td>
+    </tr>
+    <tr>
+        <td><label>Enter Confirm Password : </label></td>
+        <td><input type="password" placeholder="Enter password here"><br><br></td>
+    </tr>
+   </form> 
+   </table>
+   <a class="demo2" href="./RegisterYourAccount.html"><button>Clear Form</button></a> <a href="./create account.html"><button>Create Account</button></a>
+</body>
+</html>

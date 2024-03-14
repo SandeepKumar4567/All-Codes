@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Studies Journey</title>
+</head>
+<body>
+  <h4>My Qualification</h4>
+  <p>Hii iam Sandeep Kumar P, i completed my matriculation(10th) in Veveaham.Higher.Secondary.School, <br>
+   and i completed my higher education in (12th) in Veveaham.Higher.Secondary.School, and i completed <br>
+   my UG Degree BCOM IT in Sri Krishna Adithya College of Arts and Sciences.</p>
+</body>
+</html

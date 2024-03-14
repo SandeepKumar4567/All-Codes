@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Information</title>
+</head>
+<body>
+    <header>
+        <h2>Sales Information</h2>
+    </header>
+    <hr><br><br>
+    <table border="5">
+        <tr>
+            <th colspan="2">FRIDGE</th>
+            <th>TV</th>
+            <th>WASHING MACHINE</th>
+            <th>OVEN</th>
+            <th>AIR COOLER</th>
+        </tr>
+        <tr>
+            <td colspan="2">1000</td>
+            <td>2000</td>
+            <td>3000</td>
+            <td>2300</td>
+            <td>2400</td>
+        </tr>
+        <tr>
+            <td colspan="2">1000</td>
+            <td>2000</td>
+            <td>3000</td>
+            <td>2300</td>
+            <td>2400</td>
+        </tr>
+        <tr>
+            <td colspan="2">1000</td>
+            <td>2000</td>
+            <td>3000</td>
+            <td>2300</td>
+            <td>2400</td>
+        </tr>
+        <tr>
+            <td colspan="2">1000</td>
+            <td>2000</td>
+            <td>3000</td>
+            <td>2300</td>
+            <td>2400</td>
+        </tr>
+        <tr>
+            <td colspan="2">1000</td>
+            <td>2000</td>
+            <td>3000</td>
+            <td>2300</td>
+            <td>2400</td>
+        </tr>
+        <tr>
+            <td colspan="2">1000</td>
+            <td>2000</td>
+            <td>3000</td>
+            <td>2300</td>
+            <td>2400</td>
+        </tr>
+        <tr>
+            <td colspan="2">2000</td>
+            <td>3000</td>
+            <td>3300</td>
+            <td>2500</td>
+            <td>2700</td>
+        </tr>
+    </table>
+</body>
+</html>

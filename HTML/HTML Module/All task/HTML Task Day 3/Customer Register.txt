@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Register</title>
+    <style>
+        .firstform{
+            padding-left: 45px;
+            padding-top: 50px;
+            padding-right: 50px;
+            border-style:double;
+            width: 500px;
+            height: 300px;
+            text-align: left;
+        }
+        .buttonn{
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h2>Customer Register</h2>
+    </header><br><br>
+    <div class="firstform">
+        
+    <form>
+        <fieldset>
+            <legend>Customer</legend>
+
+           
+        <form>
+             <label>Name* </label>
+             <input type="text"><br><br>
+             
+             <label>Email* </label>
+             <input type="email"><br><br>
+
+             <label>Investment* </label>
+             <input type="number"><br><br>
+
+             <label>Date Joined</label>
+             <input type="date"><br><br>
+
+             <label>Active</label>
+             <input type="checkbox"><br><br>
+        </form>
+        </fieldset>
+        <div class="buttonn">
+        <a href="ok.html"><button>Ok</button></a>  <a href="Customer Register.html"><button>Cancel</button></a>
+    </div>
+    </form>
+    </div>
+</body>
+</html>

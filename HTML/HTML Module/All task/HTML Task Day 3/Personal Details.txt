@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Details</title>
+</head>
+<body>
+    <header>
+        <h1>Personal Details</h1>
+    </header>
+    <table border="6">
+        <tr>
+            <th>S.NO</th>
+            <th>IMAGE</th>
+            <th>FIRST NAME</th>
+            <th>LAST NAME</th>
+            <th>AGE</th>
+            <th>HOBBIES</th>
+        </tr>
+        <tr>
+            <td rowspan="2">1</td>
+            <td><img src="./Anirudh.jpeg" height="100px"></td>
+            <td>Anirudh</td>
+            <td>Ravichander</td>
+            <td>33</td>
+            <td>Singing</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td rowspan="2">2</td>
+            <td><img src="./Yuvan_Shankar_Raja.jpg" height="120px" width="100px"></td>
+            <td>Yuvan</td>
+            <td>Shankar Raja</td>
+            <td>44</td>
+            <td>Singing</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td rowspan="2">3</td>
+            <td><img src="./AR Rahman.jpeg" height="110px" width="110px"></td>
+            <td>A.R</td>
+            <td>Rahman</td>
+            <td>57</td>
+            <td>Singing</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td rowspan="2">4</td>
+            <td><img src="./Harris.jpeg" height="100px" width="100px"></td>
+            <td>Harris</td>
+            <td>Jayaraj</td>
+            <td>49</td>
+            <td>Singing</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td rowspan="2">5</td>
+            <td><img src="./Anuradha.jpeg" height="100px" width="100px"></td>
+            <td>Anuradha</td>
+            <td>Sriram</td>
+            <td>53</td>
+            <td>Singing</td>
+        </tr>
+    </table>
+</body>
+</html>

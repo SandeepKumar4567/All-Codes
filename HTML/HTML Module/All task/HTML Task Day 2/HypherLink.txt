@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HypherLink</title>
+</head>
+<body>
+    <h2><b>The Below Link is redirect to Youtube</b></h2><br><br>
+    <a href="https://www.youtube.com/"><button>Click Here</button</a>
+</body>
+</html>

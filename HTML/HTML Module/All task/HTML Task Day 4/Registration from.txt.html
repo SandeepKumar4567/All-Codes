@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            padding-left: 450px;
+            padding-right: 450px;
+        }
+
+        label {
+            width: 100px;
+            display: inline-block;
+        }
+
+        .reset {
+            padding-left: 30px;
+        }
+
+        .male {
+            padding-left: 100px;
+        }
+
+        .female {
+            padding-left: 100px;
+        }
+        .file{
+             padding-left: 90px;
+        }
+    </style>
+</head>
+
+<body>
+    <fieldset>
+        <legend>
+            <h2>Registration Form</h2>
+        </legend>
+
+        <form>
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" name="fname"><br><br>
+            <label for="lname">Last Name:</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <label for="uname">User Name:</label>
+            <input type="text" id="uname" name="uname"><br><br>
+            <label for="pwd">Password:</label>
+            <input type="password" id="pwd" name="pwd"><br><br>
+            <label for="cpwd">Confirm Password:</label>
+            <input type="password" id="cpwd" name="cpwd"><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email"><br><br>
+            <label for="mobile">Mobile:</label>
+            <input type="tel" id="mobile" name="mobile"><br><br>
+
+            <div class="male"><input type="radio">Male <br></div>
+            <label for="gender">Gender:</label><br>
+            <div class="female">
+                <input type="radio">Female<br><br>
+            </div>
+            <label for="dob">DOB:</label>
+            <input type="date" id="dob" name="dob"><br><br>
+            <label for="course">Course:</label>
+            <select id="course" name="course">
+                <option value="select">Select Course</option>
+            </select><br><br>
+            <label for="nationality">Nationality:</label>
+            <input type="checkbox">India
+            <input type="checkbox">Others<br><br>
+            <label for="profile">Profile:</label>
+            <i class='fa fa-user-circle' style="font-size: 5rem;"></i><br>
+            <div class="file">
+            <input type="file" id="file" name="file"><br><br><br>
+        </div>
+
+            <div class="reset">
+                <input type="submit" value="Submit">
+                <input type="reset" value="Reset">
+            </div>
+        </form>
+    </fieldset>
+</body>
+
+</html>

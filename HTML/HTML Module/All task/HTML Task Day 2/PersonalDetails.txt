@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+    <heading><h2>My Profile</h2></heading>
+    <ul>
+        <li><b>Name</b> : Sandeep Kumar P</li><br><br>
+        <li><b>Gender</b> : Male</li><br><br>
+        <li><b>E-mail</b> : sandeepkumarp4567@gmail.com</li><br><br>
+        <li><b>Mob.No</b> : 6383663689</li><br><br>
+        <li><b>Xth Percentage</b> : 69%</li><br><br>
+        <li><b>Inter Percentage</b> : 67%</li><br><br>
+        <li><b>Aggregate Percentage</b> : 67%</li><br><br>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Photo And Name</title>
+</head>
+<body>
+  <h1>My Photo And Name in Caption</h1>
+  <figure>
+  <fig><img src="./Sandeep.jpg"></fig>
+<figcaption><h2>Hii This is ME Sandeep Kumar P</h2></figcaption>
+</figure>
+</body>
+</html

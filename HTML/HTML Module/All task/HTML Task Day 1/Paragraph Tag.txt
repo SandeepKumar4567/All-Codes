@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Paragraph</title>
+</head>
+<body>
+ <p>Ratan Naval Tata (born 28 December 1937) is an Indian industrialist, philanthropist <br>and former chairman of Tata Sons. He was a chairman of the Tata Group from 1990 to <br>2012, and interim chairman from October 2016 through February 2017. He continues to <br>head its charitable trusts.</p>
+</body>
+</html

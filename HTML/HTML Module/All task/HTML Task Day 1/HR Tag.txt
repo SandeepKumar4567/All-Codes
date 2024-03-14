@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Structure</title>
+</head>
+<body>
+  <heading><h1>Front-end Development</h1></heading>
+  <hr>
+
+  <h2>HTML</h2>
+  <hr>
+<p>HTML-Hypher Text Markup Language, is the code used to structure the webpage and its content.</p><br>
+
+  <h2>CSS</h2>
+  <hr>
+<p>CSS-Cascading Style Sheet, is the code used to design a webpage.</p><br>
+
+  <h2>JavaScript</h2>
+  <hr>
+<p>JavaScript is to dynamically modify HTML and CSS to update a user interface.</p><br>
+</body>
+</html

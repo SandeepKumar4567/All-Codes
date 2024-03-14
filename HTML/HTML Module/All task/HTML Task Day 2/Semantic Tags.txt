@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Semantic Tags</title>
+</head>
+<body>
+
+  <header><h2>Welcome To My Webpage</header>
+<article>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad perferendis culpa repellendus, laudantium nulla<br>
+ aperiam deleniti nihil voluptas quia maxime facilis ab consectetur corporis esse voluptatem. Dignissimos hic vel nulla<br>
+ sunt aspernatur, obcaecati dicta a perspiciatis necessitatibus et consequatur voluptatibus sint, commodi mollitia asperiores<br>
+ facilis incidunt dolor repellat eum aliquam.</article>
+
+</body>
+</html

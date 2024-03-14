@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>List Tags</title>
+</head>
+<body>
+    <ol type="1">
+        <li>Ice-Cream</li>
+        <li>Chocoba</li>
+        <li>Cold-Coffee</li>
+    </ol>
+    <ol type="A">
+        <li>Sugar</li>
+        <li>Salt</li>
+        <li>Sour</li>
+    </ol>
+    <ol type="a">
+        <li>Car</li>
+        <li>Bike</li>
+        <li>Scooty</li>
+    </ol>
+    <ol type="I">
+        <li>Aroplane</li>
+        <li>Bus</li>
+        <li>Ship</li>
+    </ol>
+    <ol type="i">
+        <li>Air</li>
+        <li>Water</li>
+        <li>Fire</li>
+    </ol>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Reactjs</li>
+        <li>Nodejs</li>
+    </ul>
+</body>
+</html>

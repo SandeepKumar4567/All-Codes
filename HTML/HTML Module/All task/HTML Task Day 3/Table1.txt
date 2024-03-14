@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+  <h2>Table</h2>
+  <table border="5">
+  <tr>
+    <th>S.no</th>
+    <th>Famil members</th>
+    <th>Title</th>
+    <th>Age></th>
+  </tr>
+</table>
+</body>
+</html
